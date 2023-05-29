@@ -29,4 +29,19 @@ Here are some ideas to get you started:
  <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
   <a target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a>
  
+ <a target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" alt="Apache" width="40" height="40"/> </a>
+ 
+ <a target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/> </a>
+ 
+ <a target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Linux" width="40" height="40"/> </a>
+ <a target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Linux" width="40" height="40"/> </a>
+ <a target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg" alt="Linux" width="40" height="40"/> </a>
+ <a target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="Linux" width="40" height="40"/> </a>
+ <a target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original-wordmark.svg" alt="Linux" width="40" height="40"/> </a>
+ <a target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Linux" width="40" height="40"/> </a>
+ <a target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="Linux" width="40" height="40"/> </a>
+ <a target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Linux" width="40" height="40"/> </a>
+ <a target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Linux" width="40" height="40"/> </a>
+ <a target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" alt="Linux" width="40" height="40"/> </a>
+ 
 </p>
